@@ -31,7 +31,7 @@ The overhead system is less expensive than the underground one. In our country t
 
 <div style="text-align: center">
 
-[<img src="./images/feeder2.png" width="400" height="500"/>](./images/feeder2.png)
+[<img src="./images/feeder1.png" width="400" height="500"/>](./images/feeder1.png)
 
 fig(a)
 
