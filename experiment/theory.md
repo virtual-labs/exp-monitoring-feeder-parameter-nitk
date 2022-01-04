@@ -5,12 +5,14 @@ Feeders are line of conductors which connect the stations to the areas to be fed
 <u>**Transmission and distribution of electrical power**</u>  
 By transmission and distribution of electrical power is meant its conveyance from the central station where it is generated to the places where it is demanded by the consumers (like pumping stations, residential and commercial buildings, mills, factories etc.)
 
+   <ul style="list-style-type: disc">  
 <li>The maximum generated voltage in advanced countries is 33kV while that in India is 11kV.</li>
 <li>The amount of power that has to be transmitted through transmission lines is very large and of this power is transmitted at 11kV (or 33kV) the line current and power loss would be very large. Therefore this voltage is stepped up to a higher value by using step up transformers located in sub-stations.</li>
 <li>The transmission voltages in India are 400 kV, 220 kV and 132 kV.</li>
 <li>The transmission lines and feeders are 3-phase 3-wire circuits.</li>
 <li>The distributors are 3-phase 4-wire circuits because a neutral wire is necessary to supply the single-phase loads of domestic and commercial consumers.</li>
 <li>The transmission network is commonly known as Grid.</li>
+</ul>
 
 <u>**Electric supply system:**</u>
 
@@ -57,14 +59,17 @@ Low voltage (L.V.) distribution system
 
 </div>
 
+<ul style="list-style-type: disc">  
 <li><strong>Feeders</strong>: These are line conductors which connect the stations to the areas, to be fed by those stations. Normally no tapping are taken from feeders. They are designed mainly from point of their current carrying capacities.</li>  
 <li><strong>Distributors</strong>: These are conductors from which several tappings for the supply to the consumers are taken. They are designed from the point of view of the voltage drop in them.</li>
 <li><strong>Service mains</strong>: These are the terminals which connect the consumer’s terminals to the distributors.</li>
+</ul>
 
 <u>**Comparison between D.C. and A.C. systems of transmission and distribution
 D.C. system**</u>:  
 Few advantages: The transmission of electric power by high voltage D.C. systems has following advantages over high voltage A.C. system:
 
+<ul style="list-style-type: disc">  
 <li>DC systems are economical for long distance bulk power transmission by overhead lines.</li>
 <li>Simple line construction.</li>
 <li>Greater power per conductor.</li>
@@ -79,15 +84,18 @@ Few advantages: The transmission of electric power by high voltage D.C. systems 
 <li>No stability problems.</li>
 <li>No synchronizing difficulties.</li>
 <li>In a DC system, potential stress on the insulation is 1/√2 times that in AC system for same working voltage, therefore less insulation is required in DC system.</li>
+</ul>
 
 <u>**Disadvantages**</u>  
 The high voltage DC systems have the following disadvantages:
 
+<ul style="list-style-type: disc">  
 <li>DC system uses complicated converters and DC switch gear is expensive. Thus installation is costly.</li>
 <li>Electric power cannot be generated at high DC voltage due to commutator problems.</li>
 <li>In DC system harmonics are generated which require filters.</li>
 <li>Converters require considerable reactive power.</li>
 <li>Converters do not have overload capability.</li>
+</ul>
 
 <u>**AC system**</u>:  
 Nowadays electrical energy is almost exclusively generated, transmitted and distributed in the form of A.C. Let us see its advantages and disadvantages.
@@ -218,8 +226,10 @@ A.S.C.R conductor
 
 The above figure shows, one steel cored conductor wire surrounded by 18 wires of aluminium. The aluminium carries bulk of current while the steel core takes a greater percentage of mechanical stress.
 
+<ul style="list-style-type: disc">  
 <li> Produces small lag and therefore can be used for longer spans.</li>
 <li> A.C.S.R. Conductor gets deteriorated in service due to atmospheric corrosion.</li>
+</ul>
 
 4.  <u>Galvanised steel</u>
 
@@ -236,21 +246,23 @@ The above figure shows, one steel cored conductor wire surrounded by 18 wires of
 <u>**Line support**</u>:-  
 The following are the characteristics of line supports used for transmission and distribution of electric power.
 
+<ul style="list-style-type: disc">  
 <li>Light in weight and less expensive.</li>
 <li>It should have high mechanical strength.</li>
 <li>Low maintenance cost and longer life.</li>
+</ul>
 
 These lines support can be wooden poles, steel poles, RCC poles and steel towers.
 
 1. <u>Wooden poles</u>:
 
-<div style="text-indent: 35px">
+<ul style="list-style-type: disc">  
 <li>Cheap, easily available has insulating properties and are most widely used for distribution purpose in rural areas.</li>
 <li>Used for short spans, up to 60 metres.</li>
 <li>The portion of the poles, which is below the ground level, is impregnated with preservative compounds like creosite oil.</li>
 <li>In order to obtain high transverse strength, double pole structures like ‘A’ or ‘H’ type (fig e) are used.</li>
 <li>Short life, up to 25 to 30 years.</li>
-</div>
+</ul>
 
 <div style="text-align: center">
 
@@ -430,8 +442,8 @@ fig(j)
 
 </div>
 
-<u>Shackle insulators</u>  
-Shackle insulators can be fixed to a pole directly with a bolt or to the cross arm. The line conductor is fixed in the groove with a soft binding wire. Before, shackle insulators were used as strain insulator, but these days they are used for low voltage distribution lines.
+4. <u>Shackle insulators</u>  
+   Shackle insulators can be fixed to a pole directly with a bolt or to the cross arm. The line conductor is fixed in the groove with a soft binding wire. Before, shackle insulators were used as strain insulator, but these days they are used for low voltage distribution lines.
 
 <div style="text-align: center">
 
