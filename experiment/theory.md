@@ -260,22 +260,19 @@ fig(e)
 
 2. <u>Steel poles</u>
 
-<div style="text-indent: 35px">
   <li>Has great mechanical strength and thus can be used for longer spans (50-80 metres), but they are costly.</li> 
-  
   <li>Majority of 3 types:
 
-i. Rail poles  
- ii. Rolled steel joints  
- iii. Tabular poles
+1.  Rail poles
+2.  Rolled steel joints
+3.  Tabular poles
 
-</div>
-</li>  
+</li>
+
 <li>Average life more than 40 years.</li>
 
-</div>
-
 4. <u>R.C.C. poles</u>
+
 <li>R.C.C poles possess greater mechanical strength and can be used for longer span than steel poles(80-200 metres).</li>
 <li>Good insulating properties and low maintenance.</li>
 <li>They have a very long life.</li>
