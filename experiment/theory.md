@@ -295,13 +295,15 @@ R.C.C Poles
 
 4.<u>Steel towers</u>
 
+   <ul style="list-style-type: disc">
+
   <li>Wooden poles, steel poles, R.C.C. poles are used for distribution purpose at low voltage (say 11kV), but steel towers are invariably employed for long distance transmission at higher voltage.</li>
   <li>Troubles regarding lightning are minimised as each tower acts as a lightning conductor.</li>
   <li>Steel tower has greater mechanical strength.
   <li>Longer life span.</li>
   <li>Steel towers can withstand most severe climate conditions.</li>
   <li>Steel towers are suitable for longer spans.</li>
-
+   </ul>
 <div style="text-align: center">
 
 [<img src="./images/feeder8.png" width="500" height="400"/>](./images/feeder8.png)
@@ -329,32 +331,41 @@ Insulators are used in order to provide safety and necessary clearance between l
 
 <u>Porcelain</u>
 
+<ul style="list-style-type: disc">
+
 <li> Most commonly used material for insulator in overhead lines.</li>
 <li> Porcelain is usually weak in tension and does not withstand tensile strength more than 50MN/m<sup>2</sup></li>
 <li> A good porcelain insulator has compressive strength of about 7000N/m<sup>2</sup> and dielectric strength of 60kV/cm of its thickness.</li>
 <li> Porcelain is mechanically stronger than glass.</li>
+</ul>
 
 <u>Glass</u>
 
+<ul style="list-style-type: disc">
 <li> Mainly used for E.H.V, AC and DC systems.</li>
 <li> Glass insulator is cheaper than porcelain when simple shapes are considered.</li>
 <li> Under ordinary atmospheric conditions the glass insulator can be used up to 25kV and in dry atmosphere, it can be used up to 50kV.</li>
 <li> In H.V lines having voltage above 100kV, toughened glass is employed for insulation.</li>
+</ul>
 
 <u>Steatite</u>
 
+<ul style="list-style-type: disc">
 <li>It is produced by mixing hydrated magnesium silicate with small portion of clay and felspar.</li> 
 <li> It has high insulation resistance.</li> 
 <li> Steatite has much greater tensile and bending stress than porcelain. Thus can be used at tension towers or when the transmission lines take a sharp turn.</li>
+</ul>
 
 <u>Synthetic resin</u>
 
+<ul style="list-style-type: disc">
 <li> Synthetic resin is an insulator which is made up materials like rubber, silicon, resin etc.</li> 
 <li> Synthetic resin insulator has high strength and lower weight.</li> 
 <li> Leakage current is higher and longevity is low.</li> 
 <li>Comparatively cheaper.</li>
 <li> Used in various indoor application.</li> 
 <li> Synthetic resin insulators are extensively used for bushings.</li>
+</ul>
 
 <u>Types of insulators</u>
 
@@ -366,8 +377,10 @@ Insulators are used in order to provide safety and necessary clearance between l
 1.<u>Pin type insulators</u>  
 A pin type insulator is designed to be mounted on a pin, which in turn is installed on cross-arm of the pole. The insulator on the pin and electrical conductor is placed in the groove at the top of the insulator and soft aluminium binding wire according to the material of the conductor.
 
-- Pin type insulators made of glass are generally used for low voltages.
-- Pin type insulators made of porcelain can be used up to 90kV but are rarely used on lines above 60kV.
+<ul style="list-style-type: disc">
+<li>Pin type insulators made of glass are generally used for low voltages.</li>
+<li>Pin type insulators made of porcelain can be used up to 90kV but are rarely used on lines above 60kV.</li>
+</ul>
 
 <div style="text-align: center">
 
@@ -380,14 +393,18 @@ Pin Type Insulator
 
 2. <u>Suspension type insulators</u>
 
+<ul style="list-style-type: disc">
 <li> In a pin type insulator its cost is increased rapidly as the working voltage is increased. Therefore pin type insulator is not economical beyond 33kV. So it is as usual practice to use suspension type insulators for voltage higher than 33kV.</li>
 <li> A pin type insulator sits on top of the cross arm, whereas a suspension insulator hangs from the cross arm. The line conductor is attached to its lower end.</li>
+</ul>
 
 Few advantages of suspension type insulators over Pin type insulators are:
 
+<ul style="list-style-type: disc">
 <li> Usually cheaper in cost for operating voltage above 50kV.</li>
 <li> Flexibility is increased with suspension insulators.</li>
 <li> If line insulation needs to be increased, the additional insulators can be easily added to the string. In case there is damage in any insulator, the damaged insulator can be easily replaced.</li>
+</ul>
 
 <div style="text-align: center">
 
@@ -446,12 +463,12 @@ The factors affecting the sag in overhead lines are:
 <u>**Note**</u>:-  
 Few important terms:
 
-1. <u>Skin effect</u>:
+1. <u>Skin effect</u>:  
    When direct currents are concerned, the direct current distributes themselves uniformly over the cross-section of the conductor and therefore use the centre of the conductor as effectively as they use the periphery. When alternating current is concerned, ac owing to inductance effects within the conductor, crowd toward the outside of the conductor. This behaviour is termed as ‘skin effect’. Skin effect raises the apparent resistance of the conducting material, only the total resistance of conductor is changed depending upon the frequency of the current and also the diameter of the conductor. The total resistance of the conductor increases, as the frequency of the current increases, and also increases with the increase in the diameter of the conductor. The current carried by the centre portion of the conductors is reduced by skin effect, thus hollow conductors are sometimes employed to use them more effectively. More often instead of hollow conductor, Aluminium cable steel reinforced (ACSR) is used.
    The skin effect is negligible when the supply frequency is low (<50Hz) and the conductor diameter is small (<1cm)
 
-2. <u>Proximity Effect</u>:
-   The alternating magnetic flux in a conductor caused by the current following in a neighbouring conductor gives rise to circulating currents which cause an apparent increase in the resistance of a conductor. This phenomenon is called “proximity effect”.
+2. <u>Proximity Effect</u>:  
+   The alternating magnetic flux in a conductor caused by the current following in a neighbouring conductor gives rise to circulating currents which cause an apparent increase in the resistance of a conductor. This phenomenon is called “proximity effect”.  
    Proximity effect is always of negligible order for normal spinning of overhead lines. However, for underground cables where conductors are spaced closely to each other, the effective resistance of the conductor is greatly increased due to proximity effect.
 
 The factors which effect skin and proximity effects are:-
@@ -470,17 +487,22 @@ The transmission lines can be generally classified as follows;
 
 <u>**Short transmission lines**</u>
 
+<ul style="list-style-type: disc">
 <li>Length less than 50km.</li>
 <li>Operating voltage less than 20kV.</li>
+</ul>
 
 <u>**Medium transmission lines**</u>
 
+<ul style="list-style-type: disc">
 <li>Length between 50km and 160km.</li>
 <li>Operating voltage is between 21kV and 100kV.</li>
+</ul>
 
 <u>**Long transmission lines**</u>
 
+<ul style="list-style-type: disc">
 <li>Length more than 160km.</li>
 <li>Operating voltage is above 100kV.</li>
-
+</ul>
 </div>
