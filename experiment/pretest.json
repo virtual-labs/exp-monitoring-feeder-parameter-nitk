@@ -2,38 +2,123 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The transmission voltage in India are _____________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "400kV",
+        "b": "220kV",
+        "c": "132kV",
+        "d": "All"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Transmission network is commonly known as ____________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pan",
+        "b": "Lock-head",
+        "c": "Grid",
+        "d": "All"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "_________ is one of the best conductors due to its high electrical conductivity and high tensile strength for all type of transmission.",
+      "answers": {
+        "a": "Phosphor brown materials",
+        "b": "Galvanised iron",
+        "c": "Aluminium",
+        "d": "Copper"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Aluminium has _______ the resistivity of copper.",
+      "answers": {
+        "a": "12 times",
+        "b": "24 times",
+        "c": "3 times",
+        "d": "16 times"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "When 1 or 2 percentage of cadmium is added to copper it __________ the tensile strength by ________ but ________ the conductivity by ________.",
+      "answers": {
+        "a": "Decreases, 40% , Increases, 20%",
+        "b": "Decreases, 20% , Increases, 40%",
+        "c": "Increases, 40% , decreases, 17%",
+        "d": "Increases, 17% , decreases, 40%"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The advantage of using suspension type insulators over pin-type insulators is _________",
+      "answers": {
+        "a": "Cheaper in cost for operating voltage above 50kV",
+        "b": "Flexibility is increased with suspension insulators",
+        "c": "If line insulation needs to be increased, the additional insulators can be easily added to the string",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Reason for failure of insulator is _________",
+      "answers": {
+        "a": "Mechanical stress",
+        "b": "Short circuits",
+        "c": "Flash-over",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
