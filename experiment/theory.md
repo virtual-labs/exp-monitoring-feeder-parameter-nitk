@@ -148,7 +148,7 @@ Overhead lines and underground cables are the 2 ways for transmission or distrib
 1. Power is generally transmitted over long distances to load centres.
 2. Installation costs are very high. Therefore, transmission of power over long distances is carried out by using overhead lines.
 
-<u>**mportant components of overhead lines**</u>I:
+<u>**Important components of overhead lines**</u>I:
 
 1. Conductors:- Conductors carry power from sending end station to receiving end station.
 2. Supports:- These are the structures which keep the conductors at a suitable level above the ground; they can be poles or towers, depending upon the working voltage and the place where they are used.
@@ -197,7 +197,7 @@ Let us see few of them in brief.
 
 Copper conductor having steel core are employed for long span transmission lines, where a combination of high conductivity, small sag and minimum cross-section are desired.
 
-2. <u>**Aluminium**</u>:-
+2. <u>Aluminium</u>:-
 
    1. Lighter in weight as compared to copper, but has smaller conductivity and tensile strength.
    2. Aluminium has 1.6 items the resistivity of copper. So for the same loss and length of conductor an aluminium conductor should have 60% greater x-sectional area than that of copper conductor. This increased X-section of aluminium exposes a greater surface to wind pressure. So the supporting towers must be designed for greater transvers strength. As consequences of greater sag, the use of higher towers is often required.
@@ -256,21 +256,21 @@ fig(e)
 
 </div>
 
-2. <u>**Steel poles**</u>
+2. <u>Steel poles</u>
 
   <li>Has great mechanical strength and thus can be used for longer spans (50-80 metres), but they are costly.</li>
   <li>Majority of 3 types:
 
-1. Rail poles
-2. Rolled steel joints
-3. Tabular poles
+    i. Rail poles
+    ii. Rolled steel joints
+    iii. Tabular poles
 </li>  
 <li>Average life more than 40 years.</li>
 
-4. <u>R.C.C. poles</u>
-<li>R.C.C poles possess greater mechanical strength and can be used for longer span than steel poles(80-200 metres).</li>
-<li>Good insulating properties and low maintenance.</li>
-<li>They have a very long life.</li>
+4. <u>R.C.C. poles</u>  
+  <li>R.C.C poles possess greater mechanical strength and can be used for longer span than steel poles(80-200 metres).</li>
+  <li>Good insulating properties and low maintenance.</li>
+  <li>They have a very long life.</li>
 
 <div style="text-align: center">
 
@@ -283,12 +283,12 @@ R.C.C Poles
 
 4.<u>Steel towers</u>
 
-<li>Wooden poles, steel poles, R.C.C. poles are used for distribution purpose at low voltage (say 11kV), but steel towers are invariably employed for long distance transmission at higher voltage.</li>
-<li>Troubles regarding lightning are minimised as each tower acts as a lightning conductor.</li>
-<li>Steel tower has greater mechanical strength.
-<li>Longer life span.</li>
-<li>Steel towers can withstand most severe climate conditions.</li>
-<li>Steel towers are suitable for longer spans.</li>
+  <li>Wooden poles, steel poles, R.C.C. poles are used for distribution purpose at low voltage (say 11kV), but steel towers are invariably employed for long distance transmission at higher voltage.</li>
+  <li>Troubles regarding lightning are minimised as each tower acts as a lightning conductor.</li>
+  <li>Steel tower has greater mechanical strength.
+  <li>Longer life span.</li>
+  <li>Steel towers can withstand most severe climate conditions.</li>
+  <li>Steel towers are suitable for longer spans.</li>
 
 <div style="text-align: center">
 
@@ -317,32 +317,32 @@ Insulators are used in order to provide safety and necessary clearance between l
 
 <u>Porcelain</u>
 
-- Most commonly used material for insulator in overhead lines.
-- Porcelain is usually weak in tension and does not withstand tensile strength more than 50MN/m2
-- A good porcelain insulator has compressive strength of about 7000N/m2 and dielectric strength of 60kV/cm of its thickness.
-- Porcelain is mechanically stronger than glass.
+* Most commonly used material for insulator in overhead lines.
+* Porcelain is usually weak in tension and does not withstand tensile strength more than 50MN/m2
+* A good porcelain insulator has compressive strength of about 7000N/m2 and dielectric strength of 60kV/cm of its thickness.
+* Porcelain is mechanically stronger than glass.
 
 <u>Glass</u>
 
-- Mainly used for E.H.V, AC and DC systems.
-- Glass insulator is cheaper than porcelain when simple shapes are considered.
-- Under ordinary atmospheric conditions the glass insulator can be used up to 25kV and in dry atmosphere, it can be used up to 50kV.
-- In H.V lines having voltage above 100kV, toughened glass is employed for insulation.
+* Mainly used for E.H.V, AC and DC systems.
+* Glass insulator is cheaper than porcelain when simple shapes are considered.
+* Under ordinary atmospheric conditions the glass insulator can be used up to 25kV and in dry atmosphere, it can be used up to 50kV.
+* In H.V lines having voltage above 100kV, toughened glass is employed for insulation.
 
 <u>Steatite</u>
 
-- It is produced by mixing hydrated magnesium silicate with small portion of clay and felspar.
-- It has high insulation resistance.
-- Steatite has much greater tensile and bending stress than porcelain. Thus can be used at tension towers or when the transmission lines take a sharp turn.
+* It is produced by mixing hydrated magnesium silicate with small portion of clay and felspar.
+* It has high insulation resistance.
+* Steatite has much greater tensile and bending stress than porcelain. Thus can be used at tension towers or when the transmission lines take a sharp turn.
 
 <u>Synthetic resin</u>
 
-- Synthetic resin is an insulator which is made up materials like rubber, silicon, resin etc.
-- Synthetic resin insulator has high strength and lower weight.
-- Leakage current is higher and longevity is low.
+* Synthetic resin is an insulator which is made up materials like rubber, silicon, resin etc.
+* Synthetic resin insulator has high strength and lower weight.
+* Leakage current is higher and longevity is low.
   Comparatively cheaper.
-- Used in various indoor application.
-- Synthetic resin insulators are extensively used for bushings.
+* Used in various indoor application.
+* Synthetic resin insulators are extensively used for bushings.
 
 <u>Types of insulators</u>
 
@@ -354,8 +354,8 @@ Insulators are used in order to provide safety and necessary clearance between l
 1.<u>Pin type insulators</u>  
 A pin type insulator is designed to be mounted on a pin, which in turn is installed on cross-arm of the pole. The insulator on the pin and electrical conductor is placed in the groove at the top of the insulator and soft aluminium binding wire according to the material of the conductor.
 
-- Pin type insulators made of glass are generally used for low voltages.
-- Pin type insulators made of porcelain can be used up to 90kV but are rarely used on lines above 60kV.
+* Pin type insulators made of glass are generally used for low voltages.
+* Pin type insulators made of porcelain can be used up to 90kV but are rarely used on lines above 60kV.
 
 <div style="text-align: center">
 
@@ -368,14 +368,14 @@ Pin Type Insulator
 
 2. <u>Suspension type insulators</u>
 
-- In a pin type insulator its cost is increased rapidly as the working voltage is increased. Therefore pin type insulator is not economical beyond 33kV. So it is as usual practice to use suspension type insulators for voltage higher than 33kV.
-- A pin type insulator sits on top of the cross arm, whereas a suspension insulator hangs from the cross arm. The line conductor is attached to its lower end.
+* In a pin type insulator its cost is increased rapidly as the working voltage is increased. Therefore pin type insulator is not economical beyond 33kV. So it is as usual practice to use suspension type insulators for voltage higher than 33kV.
+* A pin type insulator sits on top of the cross arm, whereas a suspension insulator hangs from the cross arm. The line conductor is attached to its lower end.
 
 Few advantages of suspension type insulators over Pin type insulators are:
 
-- Usually cheaper in cost for operating voltage above 50kV.
-- Flexibility is increased with suspension insulators.
-- If line insulation needs to be increased, the additional insulators can be easily added to the string. In case there is damage in any insulator, the damaged insulator can be easily replaced.
+* Usually cheaper in cost for operating voltage above 50kV.
+* Flexibility is increased with suspension insulators.
+* If line insulation needs to be increased, the additional insulators can be easily added to the string. In case there is damage in any insulator, the damaged insulator can be easily replaced.
 
 <div style="text-align: center">
 
@@ -458,17 +458,17 @@ The transmission lines can be generally classified as follows;
 
 <u>**Short transmission lines**</u>
 
-- Length less than 50km.
-- Operating voltage less than 20kV.
+* Length less than 50km.
+* Operating voltage less than 20kV.
 
 <u>**Medium transmission lines**</u>
 
-- Length between 50km and 160km.
-- Operating voltage is between 21kV and 100kV.
+* Length between 50km and 160km.
+* Operating voltage is between 21kV and 100kV.
 
 <u>**Long transmission lines**</u>
 
-- Length more than 160km.
-- Operating voltage is above 100kV.
+* Length more than 160km.
+* Operating voltage is above 100kV.
 
 </div>
