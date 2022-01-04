@@ -229,7 +229,7 @@ The above figure shows, one steel cored conductor wire surrounded by 18 wires of
 5.  <u>Cadmium copper</u>  
     Sometimes copper alloyed with cadmium is used. When 1 or 2 percentage of cadmium is added to copper it increases the tensile strength by about 40 percentages but reduces the conductivity only by 17 percentages. Cadmium copper is expensive than copper.
 
-      <ul>
+      <ul style="list-style-type: circle">
             <li> Economical for a line with long spans and small cross-section.</li>
       </ul>
 
