@@ -2,38 +2,514 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The maximum generated voltage in power generating stations in advanced countries is 33kV while that in India is _________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "6 kV",
+        "b": "9 kV",
+        "c": "11 kV",
+        "d": "44 kV"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "The transmission lines and feeders are _____________ .",
+      "answers": {
+        "a": "2-phase 2-wire circuit",
+        "b": "3-phase 3-wire circuit",
+        "c": "Both 2-phase 2-wire circuit and 3-phase 3-wire circuit",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The transmission lines are _____________",
+      "answers": {
+        "a": "3-phase 4-wire circuits",
+        "b": "2-phase 2-wire circuits",
+        "c": "3-phase 3-wire circuits",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "________ are lines conductors which connect the distribution substations to the areas, to be fed by those distribution substations.",
+      "answers": {
+        "a": "Service mains",
+        "b": "Distributors",
+        "c": "Feeders",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "________ are the terminals which connect the consumer's terminals to the distributors",
+      "answers": {
+        "a": "Service mains",
+        "b": "Distributors",
+        "c": "Feeders",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "In AC-system ,",
+      "answers": {
+        "a": "Electric power can be generated at high voltage",
+        "b": "Stepping-up and stepping down of an AC voltage can be done easily and efficiently with the help of transformers",
+        "c": "Transformer line construction is comparatively difficult and the amount of copper required is comparatively more",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "In AC system,",
+      "answers": {
+        "a": "There is a need to synchronize the alternators before they are put in parallel",
+        "b": "As a result of skin effect, the resistance of the line is increased",
+        "c": "In order to avoid corona loss and also to provide adequate amount of insulation in case of overhead lines, more spacing between the conductors is required",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Statement 1:- The best method is to use AC system for generation and distribution purpose and DC system for transmission purpose.<br/>Statement 2:- The best method is to use DC system for generation and distribution purpose and AC system for transmission purpose.",
+      "answers": {
+        "a": "Statement 1 is true and Statement 2 is false",
+        "b": "Statement 1 is false and Statement 2 is false",
+        "c": "Statement 1 is false and Statement 2 is true",
+        "d": "Statement 1 is false and Statement 2 is false"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Underground cables are rarely used for",
+      "answers": {
+        "a": "Detection of fault is tough",
+        "b": "Installation costs are very high",
+        "c": "More suitable for short distance",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Important component of overhead lines is",
+      "answers": {
+        "a": "Conductors",
+        "b": "Supports and cross-arms",
+        "c": "Insulators",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The characteristics that conductors used for transmission and distribution should posses :",
+      "answers": {
+        "a": "High tensile strength and low sensitivity",
+        "b": "Low specific gravity",
+        "c": "Low cost",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Hard drawing of copper __________ electrical conductivity by small amount but it ___________ the tensile strength considerably.",
+      "answers": {
+        "a": "Increases, decreases",
+        "b": "Decreases, increases",
+        "c": "Both Increases, decreases and Decreases, increases in some cases",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Copper conductor is",
+      "answers": {
+        "a": "Homogenous material",
+        "b": "Highly durable and has high scrap value",
+        "c": "It has high current density, so lesser X-sectional area of conductor is required",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Aluminium is ______________ in weight as compared to copper, but has _________ conductivity and tensile strength.",
+      "answers": {
+        "a": "Heavier, Smaller",
+        "b": "Heavier, Greater",
+        "c": "Lighter, Greater",
+        "d": "Lighter, Smaller"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The sag in aluminium conductors is __________ the copper conductors.",
+      "answers": {
+        "a": "Lesser than",
+        "b": "Equal to",
+        "c": "Greater than",
+        "d": "2 times lesser than"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The advantages of using aluminium conductors steel reinforced over aluminium conductor is ________",
+      "answers": {
+        "a": "Tensile strength is increased",
+        "b": "Skin effect is greatly increased",
+        "c": "Both Tensile strength is increased and Skin effect is greatly increased",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Choose the proper set of increases order of mechanical strength of the following line supports :",
+      "answers": {
+        "a": "Wooden poles > steel poles > steel towers > R.C.C poles",
+        "b": "Wooden poles > steel towers > steel poles > R.C.C poles",
+        "c": "Wooden poles > steel poles >R.C.C poles > steel towers",
+        "d": "Wooden poles > R.C.C poles >steel poles > steel towers"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Characteristics of an insulator used in overhead lines are",
+      "answers": {
+        "a": "It should have high electric strength",
+        "b": "High ratio of rapture strength to flash over voltage",
+        "c": "High mechanical strength",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "A good porcelain insulator has compressive strength of about _________ and dielectric strength of _________ of its thickness.",
+      "answers": {
+        "a": "70 N/m<sup>2</sup> , 6kV/cm",
+        "b": "700 N/m<sup>2</sup> , 6kV/cm",
+        "c": "7000 N/m<sup>2</sup> , 6kV/cm",
+        "d": "7000 N/m<sup>2</sup> , 60kV/cm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Glass insulators, can be used up to _________ under normal atmospheric conditions, and in dry atmosphere, it can be used up to __________.",
+      "answers": {
+        "a": "2.5kV, 5kV",
+        "b": "2.5kV,250kV",
+        "c": "25kV, 250kV",
+        "d": "25kV, 50kV"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Steatite is produced by mixing ___________ with small proton of ________ and ___________.",
+      "answers": {
+        "a": "Hydrated magnesium silicate,carbon,nitrogen",
+        "b": "Hydrated magnesium silicate,carbon,clay",
+        "c": "Hydrated magnesium silicate,nitrogen,clay",
+        "d": "Hydrated magnesium silicate, clay, felspar"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "In a pin type insulator,",
+      "answers": {
+        "a": "Insulators made of glass are generally used for low voltages",
+        "b": "Insulators made of poralain can be used up to a 90kv but are rarely used on lines above 60kV",
+        "c": "Both Insulators made of glass are generally used for low voltages and Insulators made of poralain can be used up to a 90kv but are rarely used on lines above 60kV",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The factor affecting the sag in overhead lines are",
+      "answers": {
+        "a": "Weight of the conductor",
+        "b": "Span length",
+        "c": "Temperature",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Due to skin effect, the total resistance of the conductor _________, as the frequency of the current ________ and also with the increases in the diameter of the conductor.",
+      "answers": {
+        "a": "Increases ,Increases ,Increases",
+        "b": "Decreases ,Increases ,Decreases",
+        "c": "Increases ,Decreases ,Increases",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The skin effect is negligible when the supply frequency is ________ and the conductor diameter is _________.",
+      "answers": {
+        "a": "High, Large",
+        "b": "High, Small",
+        "c": "Low ,Small",
+        "d": "Low ,Large"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The alternating magnetic flues in a conductor caused by the current flowing in a neighbouring conductor gives rise to circulating currents which cause an apparent increases in the resistance of the conductor. This phenomena is called ________ .",
+      "answers": {
+        "a": "Skin effect",
+        "b": "Corona effect",
+        "c": "Proximity effect",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The factor which effect skin and proximity effects are ______________",
+      "answers": {
+        "a": "Frequency of the current",
+        "b": "Permeability of the conductor material",
+        "c": "Size of the conductor and distance between the conductors",
+        "d": "All"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Usually in short transmission lines ___________",
+      "answers": {
+        "a": "Length is less than 50km",
+        "b": "Operating voltage is less than 20kV",
+        "c": "Both Length is less than 50km and Operating voltage is less than 20kV",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "In medium transmission lines",
+      "answers": {
+        "a": "Length is between 50 km and 160km",
+        "b": "Operating voltage is between 21kV and 100kV",
+        "c": "Both Length is between 50 km and 160km and Operating voltage is between 21kV and 100kV",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "In long transmission lines",
+      "answers": {
+        "a": "Length is more than 160km",
+        "b": "Operating voltage is above 100kV",
+        "c": "Both Length is more than 160km and Operating voltage is above 100kV",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
     }
   ]
 }
