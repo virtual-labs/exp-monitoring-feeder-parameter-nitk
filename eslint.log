@@ -1,0 +1,9 @@
+
+/home/runner/work/exp-monitoring-feeder-parameter-nitk/exp-monitoring-feeder-parameter-nitk/experiment/simulation/js/feeder.js
+   55:10  warning  'blinkArrow' is defined but never used          no-unused-vars
+   78:10  warning  'changeSwitchStatus' is defined but never used  no-unused-vars
+  179:10  warning  'closeModal' is defined but never used          no-unused-vars
+  198:10  warning  'resetSwitch' is defined but never used         no-unused-vars
+
+✖ 4 problems (0 errors, 4 warnings)
+

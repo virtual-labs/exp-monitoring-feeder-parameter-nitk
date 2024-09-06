@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SOLVE -SA</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <script src="./js/feeder.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="title">
+        <img src="./images/logo_nitk.png" alt="logo" class="logo" />
+        <h1>Feeder parameter monitoring</h1>
+      </div>
+      <div class="main">
+        <div class="controls">
+          <img src="./images/main_part_1.png" alt="" class="main-image" />
+          <img src="./images/hand.png" alt="" class="hand" />
+          <div
+            class="control__link top__link top__link--1 switch--open"
+            id="f11"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+          <div
+            class="control__link top__link top__link--2 switch--open"
+            id="f12"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+          <div
+            class="control__link top__link top__link--3 switch--open"
+            id="f13"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+          <div
+            class="control__link top__link top__link--4 switch--open"
+            id="f14"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+
+          <div
+            class="control__link bottom__link bottom__link--1 switch--open"
+            id="f21"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+          <div
+            class="control__link bottom__link bottom__link--2 switch--open"
+            id="f22"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+          <div
+            class="control__link bottom__link bottom__link--3 switch--open"
+            id="f23"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+          <div
+            class="control__link bottom__link bottom__link--4 switch--open"
+            id="f24"
+            onclick="changeSwitchStatus(this)"
+          ></div>
+          <p class="statement pulsate">
+            Click here to CONNECT/DISCONNECT the load
+          </p>
+          <button class="reset" id="arr" onclick="resetSwitch();">Reset</button>
+        </div>
+
+        <div class="circuit">
+          <img src="./images/main_part_2.png" alt="" class="main-image" />
+          <img
+            src="./images/red__arrow.png"
+            alt="arrow_mid"
+            class="red__arrow red__arrow--mid"
+          />
+          <img
+            src="./images/red__arrow.png"
+            alt="arrow_left"
+            class="red__arrow red__arrow--left"
+          />
+          <img
+            src="./images/red__arrow.png"
+            alt="arrow_right"
+            class="red__arrow red__arrow--right"
+          />
+          <img
+            src="images/blue.png"
+            id="leftBlue"
+            class="blue blue--left opacityy"
+          />
+          <img
+            src="images/blue.png"
+            id="rightBlue"
+            class="blue blue--right opacityy"
+          />
+          <div id="meter1Load" class="meter meter1"></div>
+          <div id="meter2Load" class="meter meter2"></div>
+          <p id="mi3" class="m1 mi1">0</p>
+          <p id="mv3" class="m1 mv1">33</p>
+          <p id="mp3" class="m1 mp1">0</p>
+          <p id="mi1" class="m2 mi2">0</p>
+          <p id="mv1" class="m2 mv2">11</p>
+          <p id="mp1" class="m2 mp2">0</p>
+
+          <p id="mi2" class="m3 mi3">0</p>
+          <p id="mv2" class="m3 mv3">11</p>
+          <p id="mp2" class="m3 mp3">0</p>
+        </div>
+      </div>
+      <div class="blink__arrow">
+        <img
+          src="./images/blink__arrow.png"
+          alt="blink__arrow"
+          class="blink__arrow--img"
+        />
+      </div>
+      <div class="copyright">
+        <span style="font-weight: 900; font-size: 1.4rem">&copy;&nbsp;</span>
+        <script>
+          document.write(new Date().getFullYear());
+        </script>
+        SOLVE - The Virtual Lab @ NITK Surathkal
+      </div>
+      <div class="parentPopup displayy" id="parentPopup">
+        <div class="popup" id="popUpContent"></div>
+      </div>
+    </div>
+  <script src="../assets/js/iframeResize.js"></script></body>
+</html>
